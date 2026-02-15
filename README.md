@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Felipe%20Feitosa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=100&lines=Desenvolvedor+Full+Stack+Sênior;11%2B+anos+de+experiência+em+desenvolvimento;Especialista+em+Cloud+%26+Arquitetura;Líder+Técnico+%7C+Clean+Code+%7C+Inovação" alt="Typing SVG" />
-</div>
 
 <br>
 
