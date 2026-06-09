@@ -9,7 +9,7 @@
 ```typescript
 const felipe = {
   nome: "Felipe Feitosa da Silva",
-  idade: 28,
+  idade: 29,
   localizacao: "São Paulo, Brasil 🇧🇷",
   cargo: "Desenvolvedor Full Stack Sênior | Líder Técnico",
   experiencia: "11+ anos",
