@@ -196,12 +196,12 @@ $expertise = [
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeSilvaSynergye&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilvaSynergye&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FeSilvaSynergye&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
